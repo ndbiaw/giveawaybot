@@ -1,0 +1,24 @@
+{
+  "name": "giveaway-bot",
+  "version": "1.2.0",
+  "description": "Very simple giveaway bot made with discord.js",
+  "main": "index.js",
+  "author": "fent <github.com/fent>",
+	"license": "Apache-2.0 License",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fent/giveaway-bot.git"
+  },
+  "author": "fent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fent/giveaway-bot/issues"
+  },
+  "homepage": "https://github.com/fent/giveaway-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
